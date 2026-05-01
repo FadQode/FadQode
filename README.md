@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Erdya Qashmal</h1>
-<h3 align="center">A passionate Software Developer focusing in Development of Web Application, Artificial Inteligence, and Data Governance</h3>
+<h3 align="center">A passionate Software Developer focusing in Development of Web Application, Artificial Inteligence, also Data Analytics and ENgineering</h3>
 
 
 ## 💻 Tech Stack
